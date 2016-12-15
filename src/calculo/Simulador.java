@@ -1,5 +1,9 @@
 package calculo;
 
+/**
+ Author: Francisco do Nascimento
+ Date: 01-dec-2016
+*/
 public class Simulador {
 
 	private static double[][] faixasResidencial = { { 0.6, 95450 },
